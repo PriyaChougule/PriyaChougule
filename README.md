@@ -1,11 +1,12 @@
 - 👋 Hi, I’m Priyanka Chougule
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning new things
-I am a third year student who has a command over C, C Programming Language and Python. At present I'm looking for internship/job opportunity so that i can enhance my knowledge on these fields
-- 📫 Contact me:
-LinkedIn:https://www.linkedin.com/in/priyanka-chougule-a65733178/
-priyankachougale121212@gmail.com
-
+-  Experienced Network Analyst transitioning to data analytics with a fervent passion for Python programming.
+-  Skilled in network infrastructure management and optimization, now eager to leverage Python proficiency and analytical skills to
+   drive strategic decision-making through data-driven insights.
+-  Excited to apply problem-solving and critical thinking abilities, coupled with hands-on experience in network monitoring and data visualization, to interpret complex datasets.
+-  Committed to continuous learning, with expertise in Python for data analysis, statistical analysis, and machine learning.
+-  Seeking opportunities to combine networking expertise with Python programming to solve complex challenges in data analytics.
+- 📫 Contact me: LinkedIn: https://www.linkedin.com/in/priyankachougule/
+ 
 
 <!---
 PriyaChougule/PriyaChougule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
